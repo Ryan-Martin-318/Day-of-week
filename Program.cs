@@ -26,7 +26,7 @@ switch (day)
         break;
 
     case 4:
-        Console.WriteLine("oh, its Thursday, ok.");
+        Console.WriteLine("Oh, its Thursday, ok.");
         break;
 
     case 5:
@@ -38,10 +38,10 @@ switch (day)
         break;
 
     case 7:
-        Console.WriteLine("The weekend is almost over :()");
+        Console.WriteLine("The weekend is almost over :(");
         break;
 
     default:
-        Console.WriteLine("That isnt even a day.");
+        Console.WriteLine("That isn't even a day.");
         break;
 }
