@@ -1,8 +1,5 @@
 ﻿// The Program will ask the User what day is it.
-using System.Security.Cryptography.X509Certificates;
-
 Console.Write("What day of the week is it?\nMonday -> 1\nTuesday -> 2\nWednesday -> 3\nThursday -> 4\nFriday -> 5\nSaturday -> 6\nSunday -> 7\n");
-
 int day = 0;
 do
 {
