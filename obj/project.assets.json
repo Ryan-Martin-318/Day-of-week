@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rm1027324\\OneDrive\\2025-Fall\\CIS-Intro_to_Program\\Day of the Week\\Day of the Week.csproj",
+      "projectUniqueName": "C:\\Users\\rm1027324\\OneDrive\\2025-Fall\\CIS-Intro_to_Program\\Day-of-week\\Day of the Week.csproj",
       "projectName": "Day of the Week",
-      "projectPath": "C:\\Users\\rm1027324\\OneDrive\\2025-Fall\\CIS-Intro_to_Program\\Day of the Week\\Day of the Week.csproj",
+      "projectPath": "C:\\Users\\rm1027324\\OneDrive\\2025-Fall\\CIS-Intro_to_Program\\Day-of-week\\Day of the Week.csproj",
       "packagesPath": "C:\\Users\\rm1027324\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rm1027324\\OneDrive\\2025-Fall\\CIS-Intro_to_Program\\Day of the Week\\obj\\",
+      "outputPath": "C:\\Users\\rm1027324\\OneDrive\\2025-Fall\\CIS-Intro_to_Program\\Day-of-week\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
